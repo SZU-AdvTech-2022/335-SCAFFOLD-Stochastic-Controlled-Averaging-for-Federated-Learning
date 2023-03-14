@@ -1,4 +1,4 @@
-@inproceedings{REPO-336,
+@inproceedings{REPO-335,
     author = "Karimireddy, Sai Praneeth and Kale, Satyen and Mohri, Mehryar and Reddi, Sashank and Stich, Sebastian and Suresh, Ananda Theertha",
     pages = "5132--5143",
     title = "{{SCAFFOLD}: Stochastic Controlled Averaging for Federated Learning}",
